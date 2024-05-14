@@ -6,7 +6,6 @@ import pandas as pd
 
 # CODE
 
-
 def read_data_from_folder(folder_path):
     data = {'Object Type': [], 'Filename': [], 'Attribute Name': [], 'Attribute Value': [], 'Attribute Type': []}
     for file in os.listdir(folder_path):
@@ -36,9 +35,13 @@ def read_data_from_folder(folder_path):
                                         attribute_value = '<none>'                                   
                                         attribute_type = '<none>'
                                     else:
-                                        next_column_value = worksheet.cell(row=1, column=next_column_index).value
-                                        attribute_value = row[next_column_index - 1]
-                                        attribute_type = next_column_value.split('attributeList.attribute.')[1].split('.')[0] if '.' in next_column_value else next_column_value.split('attributeList.attribute.')[1]
+                                            next_column_value = worksheet.cell(row=1, column=next_column_index).value
+                                            attribute_value = row[next_column_index - 1]
+                                            if worksheet.cell(row=1, column=next_column_index).value.startswith('attributeList.attribute.real'):                                           
+                                                attribute_type = 'real'
+                                                attribute_value = str(worksheet.cell(row=2, column=next_column_index).value) + ' [' + str(worksheet.cell(row=2, column=next_column_index+1).value) + ']'
+                                            else:
+                                                attribute_type = next_column_value.split('attributeList.attribute.')[1].split('.')[0] if '.' in next_column_value else next_column_value.split('attributeList.attribute.')[1]
                                     data['Attribute Value'].append(attribute_value)
                                     data['Attribute Type'].append(attribute_type)
     return data
@@ -54,5 +57,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-

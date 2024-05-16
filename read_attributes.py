@@ -4,14 +4,17 @@ import os
 from openpyxl import load_workbook
 import pandas as pd
 
-# CODE
+#CODE
+
+# Ver 1.1
 
 def read_data_from_folder(folder_path):
     data = {'Object Type': [], 'Filename': [], 'Attribute Name': [], 'Attribute Value': [], 'Attribute Type': []}
-    for file in os.listdir(folder_path):
-        if file.endswith('.xlsx'):
-            file_path = os.path.join(folder_path, file)
-            workbook = load_workbook(file_path)
+    for root, _, files in os.walk(folder_path):
+        for file in files:
+            file_path = os.path.join(root, file)
+            if file.endswith('.xlsx') and os.path.isfile(file_path):      
+                workbook = load_workbook(file_path)
             for sheet in workbook.sheetnames:
                 worksheet = workbook[sheet]
                 object_type_index = None
@@ -51,7 +54,7 @@ def main():
     data = read_data_from_folder(folder_path)
     df = pd.DataFrame(data)
     
-    output_file_name = os.path.basename(os.path.normpath(folder_path)) + '.xlsx'
+    output_file_name = 'ReadingAttributes.xlsx'
     df.to_excel(output_file_name, index=False)  
     print(f"DataFrame saved to {output_file_name}")
 

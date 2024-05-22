@@ -66,4 +66,3 @@ print(f'Totally added: {len(file_names)} files to report {output_file}:')
 for file_name in file_names:
     print(f'- {file_name}')
 
-# D:/Projekty/Reading Attributes/Reading_data_project_TS/20231127175446

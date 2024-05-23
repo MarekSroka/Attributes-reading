@@ -1,5 +1,7 @@
-# Reading_data_project_TS
-Reading data from *.xlsx files
+# Reading_Attributes project #
+
+**1.**
+Reading data from preprocessed *.xlsx files
 
 Skrypt przegląda wszystkie pliki Excel w wybranym folderze - folder podawany jako parametr wejściowy wpisywany w konsoli.
 
@@ -12,3 +14,6 @@ pobiera wszystkie wartości z kolumn, w kórych określone są 'Attribute Value'
 Jeśli po kolumnie zawierającej "attributeList.attribute.name..." jest kolumna attributeList.attribute.<typ_kolumny>, to pobiera wartość z tej kolumny, jeśli brak wartości, to wypisuje "".
 
 Nazwa pliku wyjściowego to nazwa folderu, np. Component.xlsx.
+
+**2**
+Reading data from original *.xlsx files

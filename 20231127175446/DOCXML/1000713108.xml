@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Copyright (c) 2010-2014 Dassault Systemes, 1993 - 2014 -->
+<!DOCTYPE ematrix SYSTEM "ematrixml.dtd">
+<ematrix>
+<creationProperties>
+<release>3DEXPERIENCE R2022x HotFix 2(32.2.0.0)</release>
+<datetime>2023-11-27T18:01:09Z</datetime>
+<event>export</event>
+<dtdInfo>&ematrixProductDtd;</dtdInfo>
+</creationProperties>
+<businessObject id="D47B021793080000646C493300113A24">
+<objectType>ACAD Drawing</objectType>
+<objectName>1000713108</objectName>
+<objectRevision>3</objectRevision>
+<vaultRef>eService Production</vaultRef>
+<objectFlags>0</objectFlags>
+<policyRef>CAD Drawing</policyRef>
+<physicalid>D47B021793080000646C493300113A24</physicalid>
+<logicalid>BAB701174B090000E4DA2D6188120100</logicalid>
+<cestamp>B41C05171345000065638CC60006E3DA</cestamp>
+<updatestamp>BAB7011767340000F8F69962F4650B00</updatestamp>
+<majorid>BAB701174B090000E4DA2D6187120100</majorid>
+<versionid>BAB701174B090000E4DA2D61C7120100</versionid>
+<minororder>2</minororder>
+<majororder>0</majororder>
+<owner>
+<userRef>saj-in</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<description>Assembly, HS multi-pad, thrust end bearing</description>
+<creationInfo>
+<datetime>2023-05-23T05:03:47Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-26T18:22:12Z</datetime>
+</modificationInfo>
+
+<interfaceTypeRefList count="1">
+<interfaceTypeRef>Change Control</interfaceTypeRef>
+</interfaceTypeRefList>
+<attributeList count="107">
+<attribute>
+<name>FLS Legacy System Name</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>clau</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Is Version Object</name>
+<string>False</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Move Files To Version</name>
+<string>False</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Suspend Versioning</name>
+<string>False</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>File Created Date</name>
+<unknown></unknown>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>File Dimension</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>File Duration</name>
+<real>0.0</real>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>File Modified Date</name>
+<unknown></unknown>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>File Size</name>
+<integer>0</integer>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>File Type</name>
+<string> </string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Uplift From</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Legacy Document Details Internal</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Title</name>
+<string>1000713108.dwg</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Originator</name>
+<string>jakt-in</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Designated User</name>
+<string>Unassigned</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Access Type</name>
+<string>Inherited</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Checkin Reason</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Language</name>
+<string>English</string>
+<attrVals count="1">
+<attrVal>English</attrVal>
+</attrVals>
+<kindList>6</kindList>
+<orderList>1</orderList>
+<valueType>1</valueType>
+<isSet/>
+</attribute>
+<attribute>
+<name>Specific Description of Change</name>
+<string>Initial Release</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Model Type</name>
+<string>Unassigned</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Void Status</name>
+<string>Obsolete</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Document Ownership</name>
+<string>Enovia</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Project Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Additional Description</name>
+<string>Main bearing, 2150 x 500</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>BOQ Data</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>BOQ Source</name>
+<string>Enovia</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Dummy Native</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Standard Controlled Documents</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Approved By</name>
+<string>USER AGENT</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Material</name>
+<string>N/A</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Pattern Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Based On</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Internal Tag</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>HiddenAuthor</name>
+<string>SPN</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>HiddenVersionStamp</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Instruction Reference Number</name>
+<string>1000024420</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Customer Document</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Logo</name>
+<string>FLSMIDTH</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Replacing</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Vendor Name</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Document Category</name>
+<string>Generic</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Color Print</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Customer Tag</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Document Header Line 1</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Document Header Line 2</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Entity</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Compatible</name>
+<string>Yes</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Hidden Date</name>
+<string>26 NOV 2023</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Language Status</name>
+<string>Original</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Legend Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Machine Type and Size</name>
+<string>Grinding mill</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Legacy Chapter No</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Legacy Sheet No</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Customer Revision Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Note Type</name>
+<string>None</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Plan Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Page Count</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Paper Size and Orientation</name>
+<string>ISO-A1-H</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Plant Item Description</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Transmittal Document Groups</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Part Policy</name>
+<string>Production</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Weight</name>
+<real>0.0</real>
+<unitRef>kg</unitRef>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>IEF-EBOMSync-PartTypeAttribute</name>
+<string>Assembly</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Customer Document Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Document Type</name>
+<string>Assembly drawing</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Functional Group</name>
+<string>Mechanical</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Keyword</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Model Paper Space</name>
+<string>Model</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Poor Quality</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Replaced By</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Scale</name>
+<string>N/A</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Template Format</name>
+<string>ISO-A1-H</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Vendor Document</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Vendor Document Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Vendor Revision Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Renamed From</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>IEF-LockInformation</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>IEF-Specification</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>IEF-NewRevisedFrom</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>MCADInteg-SourceObj</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>MCADInteg-ClonedFrom</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>IEF-ExcludeFromBOM</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>IEF-ConnectedECO</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>CAD Type</name>
+<string>component</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>MCAD Label</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>MCADInteg-Comment</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Source</name>
+<string>AutoCAD|R424</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>IEF-FileMessageDigest</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Modified CAD Attributes</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>IEF-FileSource</name>
+<string>designtool</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>IEF-UUID</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>DSC-IsReplacementDone</name>
+<string>false</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>CutList Data</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Legacy Project Folder</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Lifecycle State Stamp</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Enovia Project Document Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Release Phase</name>
+<string>Production</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Engineering Release Status</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>IsInternalNumberPrimary</name>
+<string>FALSE</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Paper Size</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>ProjectionType</name>
+<string>Third Angle</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Legacy Project</name>
+<string></string>
+<valueType>1</valueType>
+</attribute>
+<attribute>
+<name>WELDS</name>
+<string>N/A</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Newly Created in Matrix</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Modified in Matrix</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Change Id</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+<stateList count="5">
+<state>
+<name>Draft</name>
+<stateStatus>enabled</stateStatus>
+<actualInfo>
+<datetime>2023-11-26T16:58:42Z</datetime>
+</actualInfo>
+<revisionable/>
+<startDate>
+<datetime>2023-05-23T05:03:47Z</datetime>
+</startDate>
+<endDate>
+<datetime>2023-11-26T17:31:25Z</datetime>
+</endDate>
+<stateDuration>90162</stateDuration>
+</state>
+<state>
+<name>Review</name>
+<stateStatus>enabled</stateStatus>
+<actualInfo>
+<datetime>2023-11-26T17:31:25Z</datetime>
+</actualInfo>
+<startDate>
+<datetime>2023-05-24T05:33:46Z</datetime>
+</startDate>
+<endDate>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</endDate>
+<stateDuration>16114532</stateDuration>
+</state>
+<state>
+<name>Approved</name>
+<stateStatus>enabled</stateStatus>
+<actualInfo>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</actualInfo>
+<versionable/>
+<startDate>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</startDate>
+<endDate>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</endDate>
+<stateDuration>0</stateDuration>
+</state>
+<state>
+<name>Release</name>
+<current/>
+<stateStatus>enabled</stateStatus>
+<actualInfo>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</actualInfo>
+<revisionable/>
+<startDate>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</startDate>
+<endDate>
+<datetime>2023-11-27T18:01:09Z</datetime>
+</endDate>
+<stateDuration>85148</stateDuration>
+</state>
+<state>
+<name>Obsolete</name>
+<stateStatus>enabled</stateStatus>
+<stateDuration>0</stateDuration>
+</state>
+</stateList>
+<revisions>
+<total>3</total>
+<previousRevision>
+<businessObjectRef>
+<objectType>ACAD Drawing</objectType>
+<objectName>1000713108</objectName>
+<objectRevision>2</objectRevision>
+<vaultRef>eService Production</vaultRef>
+</businessObjectRef>
+</previousRevision>
+</revisions>
+<hadFiles/>
+<storeType>captured</storeType>
+<folderList count="1">
+<folder>
+<formatRef>DWG</formatRef>
+<fileList count="3">
+<file>
+<storeFilename>/EnoviafcsP/StoreP/STORE_documents_01/52/45/5245fdowb6yyvt53yskyvjnlus5e3agxcycbrqabtin.ftl</storeFilename>
+<storeRef>STORE_documents_01</storeRef>
+<storeFileAlias>52/45/5245fdowb6yyvt53yskyvjnlus5e3agxcycbrqabtin.ftl</storeFileAlias>
+<storeFileChecksum>{MD5}9602dc1dfc2321c4ef840ba13407808a</storeFileChecksum>
+<storeFileId>100501175C6C0000656381700006FB66</storeFileId>
+<ctime>
+<datetime>2023-11-26T17:33:36Z</datetime>
+</ctime>
+<mtime>
+<datetime>2023-11-26T17:33:36Z</datetime>
+</mtime>
+<atime>
+<datetime>2023-11-27T16:01:02Z</datetime>
+</atime>
+<stime>
+<datetime>2023-11-27T16:01:02Z</datetime>
+</stime>
+<diskFilename>1000713108.dwg</diskFilename>
+<mode>438</mode>
+<uid>0</uid>
+<gid>0</gid>
+<size>695622</size>
+<storeRef>STORE_documents_01</storeRef>
+</file>
+<file>
+<storeFilename>H:/Enovia_files/svc-ftpplm_p/Location_SLC_documents_01/c9/31/c931_wwarhcukbywldh0caxoq_menmemfdhhrktifs7.etk</storeFilename>
+<storeRef>STORE_documents_01</storeRef>
+<storeFileAlias>c9/31/c931_wwarhcukbywldh0caxoq_menmemfdhhrktifs7.etk</storeFileAlias>
+<storeFileChecksum>{MD5}9602dc1dfc2321c4ef840ba13407808a</storeFileChecksum>
+<storeFileId>100501175C6C0000656381700006FB66</storeFileId>
+<ctime>
+<datetime>2023-11-26T17:33:36Z</datetime>
+</ctime>
+<mtime>
+<datetime>2023-11-26T17:33:36Z</datetime>
+</mtime>
+<atime>
+<datetime>2023-11-27T16:01:03Z</datetime>
+</atime>
+<stime>
+<datetime>2023-11-27T16:01:03Z</datetime>
+</stime>
+<diskFilename>1000713108.dwg</diskFilename>
+<mode>438</mode>
+<uid>0</uid>
+<gid>0</gid>
+<size>695622</size>
+<storeRef>STORE_documents_01</storeRef>
+<locationRef>Location_SLC_documents_01</locationRef>
+</file>
+<file>
+<storeFilename>F:/Enovia_files/svc-ftpplm_p/Location_MAA_documents_01/08/8b/088b_b_s34howtfkr8ipel4tp2x-6--jdzyxyl1vlp0.jzi</storeFilename>
+<storeRef>STORE_documents_01</storeRef>
+<storeFileAlias>08/8b/088b_b_s34howtfkr8ipel4tp2x-6--jdzyxyl1vlp0.jzi</storeFileAlias>
+<storeFileChecksum>{MD5}9602dc1dfc2321c4ef840ba13407808a</storeFileChecksum>
+<storeFileId>100501175C6C0000656381700006FB66</storeFileId>
+<ctime>
+<datetime>2023-11-26T17:33:36Z</datetime>
+</ctime>
+<mtime>
+<datetime>2023-11-26T17:33:36Z</datetime>
+</mtime>
+<atime>
+<datetime>2023-11-26T17:33:36Z</datetime>
+</atime>
+<stime>
+<datetime>2023-11-26T17:33:36Z</datetime>
+</stime>
+<diskFilename>1000713108.dwg</diskFilename>
+<mode>438</mode>
+<uid>0</uid>
+<gid>0</gid>
+<size>695622</size>
+<storeRef>STORE_documents_01</storeRef>
+<locationRef>Location_MAA_documents_01</locationRef>
+</file>
+</fileList>
+</folder>
+</folderList>
+</businessObject>
+<relationship id="B41C05171345000065638CC900053F18">
+<relationshipDefRef>Derived Output</relationshipDefRef>
+<physicalid>B41C05171345000065638CC900053F18</physicalid>
+<logicalid>B41C05171345000065638CC900053F1A</logicalid>
+<cestamp>B41C05171345000065638CC60006E3DA</cestamp>
+<updatestamp>B41C05171345000065638CC900053F22</updatestamp>
+<flags>67108864</flags>
+<majorid>B41C05171345000065638CC900053F18</majorid>
+<owner>
+<userRef>User Agent</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B021793080000646C493300113A24</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>100501175C6C0000656381700014CB92</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</modificationInfo>
+
+<attributeList count="1">
+<attribute>
+<name>CAD Object Name</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+<relationship id="D47B021793080000646C4935001C1AAC">
+<relationshipDefRef>Active Version</relationshipDefRef>
+<physicalid>D47B021793080000646C4935001C1AAC</physicalid>
+<logicalid>D47B021793080000646C4935001C1AAE</logicalid>
+<cestamp>D47B0217BF790000656379BF000A8D12</cestamp>
+<updatestamp>D47B021793080000646C4935001C1AB8</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B021793080000646C4935001C1AAC</majorid>
+<owner>
+<userRef>User Agent</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B021793080000646C493300113A24</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B0217BF790000656379BF000A8D0C</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-05-23T05:03:49Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-26T17:00:47Z</datetime>
+</modificationInfo>
+
+</relationship>
+<relationship id="D47B021793080000646C4935001C9E0A">
+<relationshipDefRef>Latest Version</relationshipDefRef>
+<physicalid>D47B021793080000646C4935001C9E0A</physicalid>
+<logicalid>D47B021793080000646C4935001C9E0C</logicalid>
+<cestamp>D47B0217BF790000656379BF000A8D12</cestamp>
+<updatestamp>D47B021793080000646C4935001C9E18</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B021793080000646C4935001C9E0A</majorid>
+<owner>
+<userRef>User Agent</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B021793080000646C493300113A24</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B0217BF790000656379BF000A8D0C</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-05-23T05:03:49Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-26T17:00:47Z</datetime>
+</modificationInfo>
+
+</relationship>
+<relationship id="BAB7011767340000F8F699628CBA0400">
+<relationshipDefRef>Part Specification</relationshipDefRef>
+<physicalid>BAB7011767340000F8F699628CBA0400</physicalid>
+<logicalid>BAB7011767340000F8F699628DBA0400</logicalid>
+<cestamp>B41C05171345000065638CC60006E3DA</cestamp>
+<updatestamp>BAB7011767340000F8F699629BBA0400</updatestamp>
+<flags>67108864</flags>
+<majorid>BAB7011767340000F8F699628CBA0400</majorid>
+<owner>
+<userRef>supctevkt</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>BAB7011767340000F6F69962366C0900</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B021793080000646C493300113A24</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2022-06-03T11:56:40Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</modificationInfo>
+
+<attributeList count="1">
+<attribute>
+<name>CAD Object Name</name>
+<string>1000713108</string>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+<relationship id="B41C05171345000065638CC9000304E8">
+<relationshipDefRef>Finalized</relationshipDefRef>
+<physicalid>B41C05171345000065638CC9000304E8</physicalid>
+<logicalid>B41C05171345000065638CC9000304EA</logicalid>
+<cestamp>B41C05171345000065638CC60006E3DA</cestamp>
+<updatestamp>B41C05171345000065638CC9000304F0</updatestamp>
+<flags>67108864</flags>
+<majorid>B41C05171345000065638CC9000304E8</majorid>
+<owner>
+<userRef>User Agent</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B0217BF790000656379BF000A8D0C</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B021793080000646C493300113A24</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</modificationInfo>
+
+</relationship>
+<relationship id="D47B021793080000646C4935001BDE2C">
+<relationshipDefRef>VersionOf</relationshipDefRef>
+<physicalid>D47B021793080000646C4935001BDE2C</physicalid>
+<logicalid>D47B021793080000646C4935001BDE2E</logicalid>
+<cestamp>D47B021793080000646C49330006E77A</cestamp>
+<updatestamp>D47B021793080000646C4935001BDE3C</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B021793080000646C4935001BDE2C</majorid>
+<owner>
+<userRef>User Agent</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B021793080000646C493300188F52</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B021793080000646C493300113A24</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-05-23T05:03:49Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-05-23T05:03:49Z</datetime>
+</modificationInfo>
+
+<attributeList count="1">
+<attribute>
+<name>IsFinalized</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+<relationship id="D47B021793080000646C49CD001624D6">
+<relationshipDefRef>VersionOf</relationshipDefRef>
+<physicalid>D47B021793080000646C49CD001624D6</physicalid>
+<logicalid>D47B021793080000646C4935001BDE2E</logicalid>
+<cestamp>D47B021793080000646C49CD0014543E</cestamp>
+<updatestamp>D47B021793080000646C49CD001624E0</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B021793080000646C49CD001624D6</majorid>
+<owner>
+<userRef>jakt-in</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B021793080000646C49CD00145436</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B021793080000646C493300113A24</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-05-23T05:06:21Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-05-23T05:06:21Z</datetime>
+</modificationInfo>
+
+<attributeList count="1">
+<attribute>
+<name>IsFinalized</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+<relationship id="D47B021793080000646C4AFF000FA788">
+<relationshipDefRef>VersionOf</relationshipDefRef>
+<physicalid>D47B021793080000646C4AFF000FA788</physicalid>
+<logicalid>D47B021793080000646C4935001BDE2E</logicalid>
+<cestamp>D47B021793080000646C4AFF000DD27C</cestamp>
+<updatestamp>D47B021793080000646C4AFF000FA792</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B021793080000646C4AFF000FA788</majorid>
+<owner>
+<userRef>jakt-in</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B021793080000646C4AFF000DD274</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B021793080000646C493300113A24</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-05-23T05:11:27Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-05-23T05:11:27Z</datetime>
+</modificationInfo>
+
+<attributeList count="1">
+<attribute>
+<name>IsFinalized</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+<relationship id="D47B0217BF790000656379BF000C00BA">
+<relationshipDefRef>VersionOf</relationshipDefRef>
+<physicalid>D47B0217BF790000656379BF000C00BA</physicalid>
+<logicalid>D47B021793080000646C4935001BDE2E</logicalid>
+<cestamp>B41C05171345000065638CC60006E3DA</cestamp>
+<updatestamp>D47B0217BF790000656379BF000C00C2</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B0217BF790000656379BF000C00BA</majorid>
+<owner>
+<userRef>saj-in</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B0217BF790000656379BF000A8D0C</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B021793080000646C493300113A24</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-11-26T17:00:47Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-26T18:22:01Z</datetime>
+</modificationInfo>
+
+<attributeList count="1">
+<attribute>
+<name>IsFinalized</name>
+<boolean>TRUE</boolean>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+</ematrix>

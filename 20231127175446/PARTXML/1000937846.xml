@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Copyright (c) 2010-2014 Dassault Systemes, 1993 - 2014 -->
+<!DOCTYPE ematrix SYSTEM "ematrixml.dtd">
+<ematrix>
+<creationProperties>
+<release>3DEXPERIENCE R2022x HotFix 2(32.2.0.0)</release>
+<datetime>2023-11-27T18:02:16Z</datetime>
+<event>export</event>
+<dtdInfo>&ematrixProductDtd;</dtdInfo>
+</creationProperties>
+<businessObject id="D47B0217C65900006530E6FB000F2A9A">
+<objectType>Component</objectType>
+<objectName>1000937846</objectName>
+<objectRevision>1</objectRevision>
+<vaultRef>eService Production</vaultRef>
+<objectFlags>0</objectFlags>
+<policyRef>EC Part</policyRef>
+<physicalid>D47B0217C65900006530E6FB000F2A9A</physicalid>
+<logicalid>D47B0217C65900006530E6FB000F2A9C</logicalid>
+<cestamp>D47B0217BF7900006563CF7D000F876E</cestamp>
+<updatestamp>D47B0217C65900006530E6FB000F2AA2</updatestamp>
+<majorid>D47B0217C65900006530E6FB000F2A9A</majorid>
+<versionid>D47B0217C65900006530E6FB000F2ABE</versionid>
+<minororder>0</minororder>
+<majororder>0</majororder>
+<owner>
+<userRef>kamu-in</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<description>RFC0050 Lamella Viewing window (Left)</description>
+<creationInfo>
+<datetime>2023-10-19T08:21:15Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-26T23:06:43Z</datetime>
+</modificationInfo>
+
+<interfaceTypeRefList count="1">
+<interfaceTypeRef>Change Control</interfaceTypeRef>
+</interfaceTypeRefList>
+<attributeList count="63">
+<attribute>
+<name>Part Classification</name>
+<string>Unassigned</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Effectivity Date</name>
+<unknown></unknown>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Item Pricing Identifier</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Keyword</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Released Date</name>
+<datetime>2023-11-26T23:06:40Z</datetime>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>ERP Transferred</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>CutList Source</name>
+<string>Enovia</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Item Ownership</name>
+<string>Enovia</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Legacy System Name</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>isVPMVisible</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>V_Name</name>
+<string>1000937846</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>VPLM Image</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Part Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Lead Time Duration</name>
+<real>0.0</real>
+<unitRef>Day</unitRef>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>UOM Type</name>
+<string>Proportion</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Change Controlled</name>
+<string>True</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Release Phase</name>
+<string>Production</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Short Description</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Estimated Cost</name>
+<real>0.0</real>
+<unitRef>Dollar</unitRef>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Nobel Part</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Product Code</name>
+<string>RFC</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Inspection Test Plan Required</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Item Source</name>
+<string>SolidWorks</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Legacy Part Details Internal</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Legacy Numbered Source</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Engineering Note</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Uplift From</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Legacy Part Number</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Reason For Pre-Release</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>VDR Data Types</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>VDR Document Types</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Legacy Document Reference</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>PO Taxonomy Code</name>
+<string>050 010 010</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>PO Taxonomy Code Description</name>
+<string>050 Fabrication. 010 Basic Fabrication Platework. 010 STP1</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Originator</name>
+<string>vln-in</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Lead Time</name>
+<string>Unassigned</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Weight</name>
+<real>2.04</real>
+<unitRef>kg</unitRef>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Material Category</name>
+<string>Metal</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Production Make Buy Code</name>
+<string>Unassigned</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Service Make Buy Code</name>
+<string>Unassigned</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Target Cost</name>
+<real>0.0</real>
+<unitRef>Dollar</unitRef>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Unit of Measure</name>
+<string>EA</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Spare Part</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Current Version</name>
+<integer>0</integer>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Is Version</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>All Level MBOM Generated</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Design Purchase</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>End Item</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>End Item Override Enabled</name>
+<string>Yes</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Spare Note</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>CutList Data</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>BOQ Data</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>BOQ Source</name>
+<string>Enovia</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Sell with KIT or Assembly</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Material</name>
+<string>Acrylic (Medium-high impact)</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Additional Material Specification</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>FLS Material Category</name>
+<string>Thermoplastics</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Wear Part</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Manufacturing Process</name>
+<string>Fabrication</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Inspection Note</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Is Engineering Required For Spare Execution</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Note To Manufacturer</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Change Id</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+<stateList count="5">
+<state>
+<name>Draft</name>
+<stateStatus>enabled</stateStatus>
+<actualInfo>
+<datetime>2023-11-21T06:32:46Z</datetime>
+</actualInfo>
+<revisionable/>
+<startDate>
+<datetime>2023-10-19T08:21:15Z</datetime>
+</startDate>
+<endDate>
+<datetime>2023-11-21T08:47:26Z</datetime>
+</endDate>
+<stateDuration>2083183</stateDuration>
+</state>
+<state>
+<name>Review</name>
+<stateStatus>enabled</stateStatus>
+<actualInfo>
+<datetime>2023-11-21T08:47:26Z</datetime>
+</actualInfo>
+<revisionable/>
+<startDate>
+<datetime>2023-11-07T08:49:37Z</datetime>
+</startDate>
+<endDate>
+<datetime>2023-11-26T23:06:16Z</datetime>
+</endDate>
+<stateDuration>1253118</stateDuration>
+</state>
+<state>
+<name>Approved</name>
+<stateStatus>enabled</stateStatus>
+<actualInfo>
+<datetime>2023-11-26T23:06:16Z</datetime>
+</actualInfo>
+<revisionable/>
+<versionable/>
+<startDate>
+<datetime>2023-11-26T23:06:16Z</datetime>
+</startDate>
+<endDate>
+<datetime>2023-11-26T23:06:40Z</datetime>
+</endDate>
+<stateDuration>24</stateDuration>
+</state>
+<state>
+<name>Release</name>
+<current/>
+<stateStatus>enabled</stateStatus>
+<actualInfo>
+<datetime>2023-11-26T23:06:40Z</datetime>
+</actualInfo>
+<revisionable/>
+<startDate>
+<datetime>2023-11-26T23:06:40Z</datetime>
+</startDate>
+<endDate>
+<datetime>2023-11-27T18:02:16Z</datetime>
+</endDate>
+<stateDuration>68136</stateDuration>
+<signatureList count="1">
+<signature>
+<name>ExtendedPublicReadAccess</name>
+</signature>
+</signatureList>
+</state>
+<state>
+<name>Obsolete</name>
+<stateStatus>enabled</stateStatus>
+<revisionable/>
+<stateDuration>0</stateDuration>
+</state>
+</stateList>
+</businessObject>
+<relationship id="D47B0217B61800006541E31C00163ED8">
+<relationshipDefRef>Part Specification</relationshipDefRef>
+<physicalid>D47B0217B61800006541E31C00163ED8</physicalid>
+<logicalid>D47B0217B61800006541E31C00163EDA</logicalid>
+<cestamp>D47B0217B61800006541E31C0007341E</cestamp>
+<updatestamp>D47B0217B61800006541E31C00163EE2</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B0217B61800006541E31C00163ED8</majorid>
+<owner>
+<userRef>kamu-in</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B0217C65900006530E6FB000F2A9A</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B0217C659000065324E90001DDAB2</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-11-01T05:33:16Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-01T05:33:16Z</datetime>
+</modificationInfo>
+
+<attributeList count="1">
+<attribute>
+<name>CAD Object Name</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+<relationship id="D47B0217B61800006541E31C001574A8">
+<relationshipDefRef>Part Specification</relationshipDefRef>
+<physicalid>D47B0217B61800006541E31C001574A8</physicalid>
+<logicalid>D47B0217B61800006541E31C001574AA</logicalid>
+<cestamp>D47B0217B61800006541E31C0007341E</cestamp>
+<updatestamp>D47B0217B61800006541E31C001574B0</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B0217B61800006541E31C001574A8</majorid>
+<owner>
+<userRef>kamu-in</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B0217C65900006530E6FB000F2A9A</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>B41C0517307F0000653B531F000A60B4</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-11-01T05:33:16Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-01T05:33:16Z</datetime>
+</modificationInfo>
+
+<attributeList count="1">
+<attribute>
+<name>CAD Object Name</name>
+<string>1000937846</string>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+<relationship id="D47B0217C65900006530E6FB00108FE4">
+<relationshipDefRef>Part Revision</relationshipDefRef>
+<physicalid>D47B0217C65900006530E6FB00108FE4</physicalid>
+<logicalid>D47B0217C65900006530E6FB00108FE6</logicalid>
+<cestamp>D47B0217C65900006530E6FA001E077C</cestamp>
+<updatestamp>D47B0217C65900006530E6FB00108FEC</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B0217C65900006530E6FB00108FE4</majorid>
+<owner>
+<userRef>vln-in</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B0217C65900006530E6FB00107A1A</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B0217C65900006530E6FB000F2A9A</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-10-19T08:21:15Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-10-19T08:21:15Z</datetime>
+</modificationInfo>
+
+<attributeList count="16">
+<attribute>
+<name>Effectivity Date</name>
+<unknown></unknown>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Production Make Buy Code</name>
+<string>Unassigned</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Lot Effectivity</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Plant ID</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Serial Effectivity</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>End Item</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>ERP-Status</name>
+<string>Unassigned</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>MBOM End Date</name>
+<unknown></unknown>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>MBOM Start Date</name>
+<unknown></unknown>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>MBOM Status</name>
+<string>Create</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>MCO-In</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>MCO-Out</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>RoHS</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Sequence</name>
+<integer>1</integer>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>isWIPMBOM</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Additional Sequence</name>
+<integer>1</integer>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+<relationship id="D47B0217C65900006530E6FB0010B556">
+<relationshipDefRef>Design Responsibility</relationshipDefRef>
+<physicalid>D47B0217C65900006530E6FB0010B556</physicalid>
+<logicalid>D47B0217C65900006530E6FB0010B558</logicalid>
+<cestamp>D47B0217C65900006530E6FA001E077C</cestamp>
+<updatestamp>D47B0217C65900006530E6FB0010B55E</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B0217C65900006530E6FB0010B556</majorid>
+<owner>
+<userRef>vln-in</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>C4B2CC02004600A04CE37EF30004494B</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B0217C65900006530E6FB000F2A9A</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-10-19T08:21:15Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-10-19T08:21:15Z</datetime>
+</modificationInfo>
+
+<attributeList count="8">
+<attribute>
+<name>Agreed Unit Price</name>
+<real>0.0</real>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>RTS ID</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Show Sub Components</name>
+<string>None</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Show Target Cost</name>
+<string>No</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Source Qualification Status</name>
+<string>Planning</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Source Selection Status</name>
+<string>Candidate</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Sub Component Level</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Comments</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+<relationship id="D47B0217B61800006541E31C0017C108">
+<relationshipDefRef>EBOM</relationshipDefRef>
+<physicalid>D47B0217B61800006541E31C0017C108</physicalid>
+<logicalid>D47B0217B61800006541E31C0017C10A</logicalid>
+<cestamp>D47B0217BF7900006563CF7D000F876E</cestamp>
+<updatestamp>D47B0217B61800006541E31C0017C10E</updatestamp>
+<flags>67108864</flags>
+<majorid>D47B0217B61800006541E31C0017C108</majorid>
+<owner>
+<userRef>kamu-in</userRef>
+</owner>
+<organization>
+<userRef>FLS Mineral</userRef>
+</organization>
+<project>
+<userRef>Mineral</userRef>
+</project>
+<fromObjectId type="bus">
+<physicalid>D47B0217B61800006541E31C00073414</physicalid>
+</fromObjectId>
+<toObjectId type="bus">
+<physicalid>D47B0217C65900006530E6FB000F2A9A</physicalid>
+</toObjectId>
+<creationInfo>
+<datetime>2023-11-01T05:33:16Z</datetime>
+</creationInfo>
+<modificationInfo>
+<datetime>2023-11-26T23:06:40Z</datetime>
+</modificationInfo>
+
+<attributeList count="19">
+<attribute>
+<name>Usage</name>
+<string>Standard</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Find Number</name>
+<string>4</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Notes</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Quantity</name>
+<real>1.0</real>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Source</name>
+<string>SolidWorks</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Unit of Measure</name>
+<string>EA</string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Component Location</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Reference Designator</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>End Effectivity Date</name>
+<unknown></unknown>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Start Effectivity Date</name>
+<datetime>2023-11-26T23:06:40Z</datetime>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Has Manufacturing Substitute</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>PLM_ExternalID</name>
+<string> </string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>V_description</name>
+<string> </string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>TreeOrder</name>
+<real>1.0</real>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>isVPMVisible</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Note</name>
+<string></string>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Confirm Status</name>
+<boolean>FALSE</boolean>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>CAD Quantity</name>
+<real>1.0</real>
+<valueType>0</valueType>
+</attribute>
+<attribute>
+<name>Sequence Order</name>
+<integer>1</integer>
+<valueType>0</valueType>
+</attribute>
+</attributeList>
+</relationship>
+</ematrix>

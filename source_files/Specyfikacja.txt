@@ -1,0 +1,12 @@
+
+1) Skrypt przegląda wszystkie pliki Excel w wybranym folderze - folder podawany jako parametr wejściowy wpisywany w konsoli.
+
+2) Bierze tylko wiersze, gdzie objectType nie jest pusty.
+
+3) Pobiera wszystkie wartości z kolumn o nazwie zawierającej "attributeList.attribute.name...".
+
+4) Jeśli po kolumnie zawierającej "attributeList.attribute.name..." jest kolumna attributeList.attribute.<typ_kolumny>, to pobrać wartość z tej kolumny. Jeśli brak wartości, to wpisujemy "<none>".
+
+5) Postać wyjściowa powinna wyglądać, jak w pliku "XML_Analysis_Attributes.xlsx" - przykładowe wartości są tam wpisane na podstawie pliku: Component\152R-BPC-11 _Component_1.xlsx.
+
+6) Nazwa pliku wyjściowego to nazwa folderu, np. Component.xlsx.

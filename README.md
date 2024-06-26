@@ -1,6 +1,8 @@
 # Reading_Attributes project #
 
-**A** **VERSION 1**
+**A** 
+
+**VERSION 1**
 
  Reads attributes from a folder of *.xlsx preprocessed files and generates a .xlsx report file for each folder.
 
@@ -19,7 +21,8 @@
 
 
 **B**
-VERSION 2 Reads data from original *.xml files
+
+**VERSION 2**  Reads data from original *.xml files
 
 **STEPS:**
    1) The script looks at all *.xmls files in the selected folder - folder given as input parameter typed in the console

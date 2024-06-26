@@ -1,19 +1,22 @@
 # Reading_Attributes project #
 
-**1.**
-Reading data from preprocessed *.xlsx files
+**1.** **VERSION 1**
 
-Skrypt przegląda wszystkie pliki Excel w wybranym folderze - folder podawany jako parametr wejściowy wpisywany w konsoli.
+ Reads attributes from a folder of *.xlsx files and generates a .xlsx report file for each folder.
 
-Bierze tylko wiersze, gdzie objectType nie jest pusty.
+**STEPS:**
+1) The script looks at all Excel files in the selected folder - folder given as input parameter typed in the console.
 
-Pobiera wszystkie wartości z kolumn o nazwie zawierającej "attributeList.attribute.name...".
+2) Takes only rows where 'objectType' is not empty.
 
-pobiera wszystkie wartości z kolumn, w kórych określone są 'Attribute Value' (np. "attributeList.attribute.string").
+3) Takes all values from columns with a name containing "attributeList.attribute.name...".
 
-Jeśli po kolumnie zawierającej "attributeList.attribute.name..." jest kolumna attributeList.attribute.<typ_kolumny>, to pobiera wartość z tej kolumny, jeśli brak wartości, to wypisuje "".
+4) Retrieves all values from columns where 'Attribute Value' is specified (e.g. "attributeList.attribute.string").
 
-Nazwa pliku wyjściowego to nazwa folderu, np. Component.xlsx.
+5) If after the column containing "attributeList.attribute.name..." there is an attributeList.attribute.<type_column> column, it retrieves the value from that column, if no value, it prints "<none>".
+
+6) The name of the output file is the name of the folder, e.g. Component.xlsx.
+
 
 **2**
 Reading data from original *.xlsx files

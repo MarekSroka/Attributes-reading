@@ -21,7 +21,7 @@
 **B**
 Reads data from original *.xml files
 
-STEPS:
+**STEPS:**
    1) The script looks at all *.xmls files in the selected folder - folder given as input parameter typed in the console
       
    2) Takes only rows where 'objectType' is not empty.

@@ -19,7 +19,7 @@
 
 
 **B**
-Reads data from original *.xml files
+VERSION 2 Reads data from original *.xml files
 
 **STEPS:**
    1) The script looks at all *.xmls files in the selected folder - folder given as input parameter typed in the console

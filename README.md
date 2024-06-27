@@ -2,7 +2,7 @@
 
 **A** 
 
-**VERSION 1**
+**VERSION 1** --> read_atttributes.py
 
  Reads attributes from a folder of *.xlsx preprocessed files and generates a .xlsx report file for each folder.
 
@@ -22,7 +22,7 @@
 
 **B**
 
-**VERSION 2**  Reads data from original *.xml files
+**VERSION 2**  Reads data from original *.xml files (--> read_atttributes_version_2.py)
 
 **STEPS:**
    1) The script looks at all *.xmls files in the selected folder - folder given as input parameter typed in the console

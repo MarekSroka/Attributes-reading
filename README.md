@@ -41,7 +41,7 @@
    
    8) Generates XML_Attributes.xlsx file
    
-   9) In the Report.xlsx A pivot table is then automatically created based on the sheets in the XML_Attributes.xlsx file, where we can check the attributes report 
+   9) In the Report.xlsx A pivot table is then automatically created (through M language script) based on the sheets in the XML_Attributes.xlsx file, where we can check the attributes report matrix. These 2 files have to be in the same folder 
    
 
 
